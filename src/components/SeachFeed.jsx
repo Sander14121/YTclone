@@ -1,9 +1,9 @@
 import React from "react";
 
-const SearchFeed = () => {
+const SeachFeed = () => {
     return(
         <div>SearchFeed</div>
     )
 }
 
-export default SearchFeed
+export default SeachFeed
